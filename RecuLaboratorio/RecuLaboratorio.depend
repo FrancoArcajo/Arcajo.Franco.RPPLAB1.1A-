@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1607522750 source:c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"cliente.h"
+	"menu.h"
+	"prestamo.h"
+
+1607522325 source:c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\prestamo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"prestamo.h"
+	"validaciones.h"
+
+1607518030 source:c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+	"validaciones.h"
+
+1607518044 c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\validaciones.h
+	"cliente.h"
+
+1607519317 c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\cliente.h
+
+1607519325 source:c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"cliente.h"
+	"validaciones.h"
+
+1607522729 c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\prestamo.h
+	"cliente.h"
+
+1607521893 source:c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+	"validaciones.h"
+
+1607517113 c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\menu.h
+
+1607518392 source:c:\users\blodrs\desktop\recu labo\arcajo.franco.rpplab1.1a-\reculaboratorio\informes.c
+
